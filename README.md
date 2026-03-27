@@ -78,8 +78,8 @@ Catégories configurées : `Réseau` `Matériel` `Logiciel` `Accès / Droits` `M
 | 1 | Impossible de se connecter au VPN | Incident | Réseau | Haute | ✅ Résolu |
 | 2 | Réinitialisation mot de passe utilisateur | Incident | Accès / Droits | Moyenne | ✅ Résolu |
 
-<img width="1495" height="892" alt="Liste des tickets" src="https://github.com/user-attachments/assets/0dcd3397-9956-4f95-b4be-e5c293cfe13f" />
 <img width="1472" height="842" alt="Ticket VPN" src="https://github.com/user-attachments/assets/0d4a2dfa-1bd1-4d2b-84be-d84d8253e4e7" />
+<img width="1495" height="892" alt="Liste des tickets" src="https://github.com/user-attachments/assets/0dcd3397-9956-4f95-b4be-e5c293cfe13f" />
 
 Chaque ticket inclut : suivi de prise en charge + solution documentée + élément du parc associé.
 

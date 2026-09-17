@@ -165,5 +165,5 @@ Chaque ticket inclut : suivi de prise en charge + solution documentée + éléme
 
 ## 👩‍💻 Auteure
 
-**Mina OUAAZIZ** — Technicienne Supérieure Systèmes et Réseaux  
-Passionnée par la cybersécurité défensive, l'administration système et le support IT.
+**Mina OUAAZIZ** 
+Remote Support IT & Customer Care | Près de 10 ans de rigueur opérationnelle appliquée à la tech | Passionnée par la cybersécurité défensive (pratique TryHackMe)
